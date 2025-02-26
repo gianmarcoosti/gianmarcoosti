@@ -2,7 +2,7 @@
 
 ### Data Analyst/Biologist/Programming Enthusiast
 
-- 🔭 I’m currently working on: bioanalysis with ubuntu
+- 🔭 I’m currently working on: genomic analysis with ubuntu
 - 🌱 I’m currently learning: Machine Learning and LLM
 - 👯 I’m looking to collaborate on biostatistics research
 - ⚡ Fun fact: I can solve a Rubik's cube in under 20 seconds :D
