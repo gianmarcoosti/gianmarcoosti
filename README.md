@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Gianmarco
 
-### Data Analyst/Programming Enthusiast
+### Data Analyst/Biologist/Programming Enthusiast
 
 - 🔭 I’m currently working on: bioanalysis with ubuntu
 - 🌱 I’m currently learning: Machine Learning and LLM
